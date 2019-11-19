@@ -1,0 +1,29 @@
+{
+  "name": "react-native-easy-action-sheet",
+  "version": "1.0.0",
+  "description": "cross platform actionSheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaiYz/react-native-easy-action-sheet.git"
+  },
+  "keywords": [
+    "actionSheet",
+    "react-native"
+  ],
+
+  "author": "DaiYz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaiYz/react-native-easy-action-sheet/issues"
+  },
+  "homepage": "https://github.com/DaiYz/react-native-easy-action-sheet#readme",
+  "peerDependencies": {
+    "react": "*",
+    "prop-types": "*",
+    "react-native": "*"
+  }
+}
