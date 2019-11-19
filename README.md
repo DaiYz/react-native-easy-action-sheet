@@ -46,4 +46,14 @@ class Demo extends React.Component {
 ```
 
 
-
+## Props
+props | type |default | Info 
+----- | ------- |  ------- | -----
+ options | [string] |undefined | a list of button titles (required)
+ cancelButtonIndex | number |0 | index of cancel button in options
+ destructiveButtonIndex | number |undefined | index of destructive button in options
+ title | string |undefined | a list of button titles (required)
+ message | string |undefined | a message to show below the title
+ tintColor | string |  | the color used for non-destructive button titles
+ onPress | func | (index) => console.log(index) | button on press
+ androidHeaderHeight | number | undefined | height of navHeader on android (required)

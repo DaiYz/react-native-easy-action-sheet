@@ -8,7 +8,7 @@ const ActionSheet = Platform.select({
 })
 
 ActionSheet.propTypes = {
-  options: PropTypes.array,
+  options: PropTypes.array.isRequired,
   cancelButtonIndex: PropTypes.number,
   destructiveButtonIndex: PropTypes.number,
   title: PropTypes.string,
