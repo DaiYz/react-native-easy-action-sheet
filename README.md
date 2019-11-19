@@ -7,7 +7,7 @@
 
 ## ScreenShots
 <p>
-<img alt="react-native-easy-action-sheet" src="./screenshots/1.png" width="207" height="448" />
+<img alt="react-native-easy-action-sheet" src="./screenshots/1.png" width="200" height="355.5" />
 <img alt="react-native-easy-action-sheet" src="./screenshots/2.png" width="207" height="448" />
 </p>
 
